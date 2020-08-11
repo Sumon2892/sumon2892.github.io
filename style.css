@@ -1,0 +1,10 @@
+body{
+  margin: auto;
+  padding: inherit;
+  background-size:cover;
+	font-family: Arial;
+}
+.size{
+  width: 500px;
+  margin: auto;
+}
